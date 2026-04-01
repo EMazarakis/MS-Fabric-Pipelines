@@ -27,6 +27,6 @@ All of this happens within a single unified platform.  Microsoft Fabric gives us
 ## Goal
 Our goal is to build a mechanism that uses parameterized pipelines, supported by a control table and a log table, to orchestrate and manage the execution of all pipeline runs.
 
-![High Level Architecture](./Images/002.Architecture Diagram.png)
+The high level architecture of our MS Fabric project is shown below.
 
 ![Architecture](https://github.com/EMazarakis/MS-Fabric-Pipelines/blob/main/Images/002.Architecture_Diagram.png)
