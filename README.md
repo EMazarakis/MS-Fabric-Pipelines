@@ -28,3 +28,5 @@ All of this happens within a single unified platform.  Microsoft Fabric gives us
 Our goal is to build a mechanism that uses parameterized pipelines, supported by a control table and a log table, to orchestrate and manage the execution of all pipeline runs.
 
 ![High Level Architecture](./Images/002.Architecture Diagram.png)
+
+![alt text]([http://url/to/img.png](https://github.com/EMazarakis/MS-Fabric-Pipelines/blob/main/Images/002.Architecture%20Diagram.png))
