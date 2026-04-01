@@ -30,3 +30,6 @@ Our goal is to build a mechanism that uses parameterized pipelines, supported by
 The high level architecture of our MS Fabric project is shown below.
 
 ![Architecture](https://github.com/EMazarakis/MS-Fabric-Pipelines/blob/main/Images/002.Architecture_Diagram.png)
+
+## Implementation
+You can read the article on the Medium, in order to see the steps of the project.
