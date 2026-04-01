@@ -1,5 +1,6 @@
 # MS-Fabric-Pipelines
 
+## Intro
 In this project, we start with a simple but realistic scenario. We have an on‑premises PostgreSQL database hosting a Retail schema. 
 The schema contains 12 operational tables that represent a typical transactional retail system:
 - categories
