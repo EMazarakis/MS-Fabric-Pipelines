@@ -22,3 +22,9 @@ All of this happens within a single unified platform.  Microsoft Fabric gives us
 2) transformation
 3) modeling
 4) reporting 
+
+
+## Goal
+Our goal is to build a mechanism that uses parameterized pipelines, supported by a control table and a log table, to orchestrate and manage the execution of all pipeline runs.
+
+![High Level Architecture](./Images/002.Architecture Diagram.png)
