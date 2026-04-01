@@ -6,15 +6,19 @@ The schema contains 12 operational tables that represent a typical transactional
 - orders
 - customers
 - employees
-etc
+- etc
 
 The dataset itself originates from a [Kaggle-Retail DWH](https://www.kaggle.com/datasets/datarspectrum/retail-data-warehouse-12-table-1m-rows-dataset) 
 All PostgreSQL **CREATE TABLE** statements are available at [here](https://github.com/EMazarakis/MS-Fabric-Pipelines/blob/main/SQL%20Code/001.CREATE_STATEMENTS_POSTGRESQL_TABLES.sql)
 
 Our goal is to take this on‑prem dataset and build a complete end‑to‑end analytics solution using Microsoft Fabric. That means:
- - Ingesting data from PostgreSQL
- - Storing it inside a Fabric Lakehouse & Warehouse
- - Building a semantic model
- - Creating a Power BI report on top of it
+- Ingesting data from PostgreSQL
+- Storing it inside a Fabric Lakehouse & Warehouse
+- Building a semantic model
+- Creating a Power BI report on top of it
 
-All of this happens within a single unified platform. Fabric gives us one place to orchestrate ingestion, transformation, modeling, and reporting - without jumping between disconnected services.
+All of this happens within a single unified platform.  Microsoft Fabric gives us one place, without jumping between disconnected services, to:
+1) orchestrate ingestion
+2) transformation
+3) modeling
+4) reporting 
