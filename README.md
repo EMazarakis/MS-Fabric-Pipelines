@@ -29,4 +29,4 @@ Our goal is to build a mechanism that uses parameterized pipelines, supported by
 
 ![High Level Architecture](./Images/002.Architecture Diagram.png)
 
-![alt text]([http://url/to/img.png](https://github.com/EMazarakis/MS-Fabric-Pipelines/blob/main/Images/002.Architecture%20Diagram.png))
+![Architecture](https://github.com/EMazarakis/MS-Fabric-Pipelines/blob/main/Images/002.Architecture_Diagram.png)
