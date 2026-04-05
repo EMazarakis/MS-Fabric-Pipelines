@@ -33,4 +33,8 @@ The high level architecture of our MS Fabric project is shown below.
 ![Architecture](https://github.com/EMazarakis/MS-Fabric-Pipelines/blob/main/Images/002.Architecture_Diagram.png)
 
 ## Implementation
-You can read the article on the Medium, in order to see the steps of the project.
+You can read the article on the Medium [Fabric End to End Analytics](https://medium.com/@mazarakiseug/fabric-end-to-end-analytics-56d367c1a05c?postPublishedType=repub), in order to see the steps of the project.
+
+Also you can see the following 2 videos:
+- [Fabric Pipelines Environment Explanation](https://youtu.be/WD9vOtJ7_0U)
+- [Pipelines](https://youtu.be/U8Y2dHbIqOM)
